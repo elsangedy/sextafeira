@@ -1,0 +1,5 @@
+# sextafeira
+
+```bash
+$ npx sextafeira
+```

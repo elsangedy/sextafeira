@@ -1,0 +1,14 @@
+{
+  "name": "sextafeira",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Munir Ahmed Elsangedy <elsangedy@gmail.com>",
+  "homepage": "https://github.com/elsangedy/sextafeira#readme",
+  "main": "index.js",
+  "bin": {
+    "sextafeira": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
